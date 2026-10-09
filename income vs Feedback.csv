@@ -1,0 +1,11 @@
+﻿Monthly Income,Feedback,Count of Feedback
+No Income,Positive,170
+More than 50000,Positive,50
+25001 to 50000,Positive,48
+10001 to 25000,Positive,35
+25001 to 50000,Negative,21
+No Income,Negative,17
+Below Rs.10000,Positive,14
+More than 50000,Negative,12
+Below Rs.10000,Negative,11
+10001 to 25000,Negative,10
