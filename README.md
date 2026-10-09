@@ -35,6 +35,7 @@ Profile: young (average age 24.6), student-dominated (53%), highly educated (90%
 **Installation**
 
 1️⃣ Clone the repository:
+https://github.com/noordesigner262-design/Online-Food-Delivery-Feedback-Repository.git
 
 2️⃣ Install dependencies:
 pip install pandas 
@@ -43,7 +44,8 @@ matplotlib
 scipy
 
 3️⃣ Open the Power BI file (`Online Food Delivery.pbix`) in Power BI Desktop to explore the dashboard.
-Methodology
+
+**Methodology**
 
 **Data Cleaning** 
 
