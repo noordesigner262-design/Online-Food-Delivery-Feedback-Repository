@@ -23,6 +23,12 @@ It covers data cleaning, exploratory data analysis (EDA), hypothesis testing (ch
 
 ├── Dashboard img.png # Dashboard screenshot
 
+├── final dashboard.png # Dashboard screenshot
+
+├── Insights.png # Dashboard screenshot
+
+├── insight.py # python(CHISQ.TEST ,panadas)
+
 ├── README.md # Project documentation
 
 
@@ -119,6 +125,12 @@ Run targeted satisfaction surveys for the 26-30 age group and low-income custome
 **Dashboard Preview (Dashboard img.png)** 
 
 <img width="461" height="260" alt="Dashboard img" src="https://github.com/user-attachments/assets/35cd8d42-b9ec-4d5e-bc1e-9fdeba7a3ce8" />
+
+<img width="575" height="326" alt="Insights" src="https://github.com/user-attachments/assets/1c14063f-0e41-4540-9d59-8e1d4c4dea88" />
+
+<img width="574" height="324" alt="final dashboard" src="https://github.com/user-attachments/assets/0aa4b86d-1e82-4676-ab0b-f679b273dc17" />
+
+
 
  
 **Technologies Used**
