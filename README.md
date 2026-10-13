@@ -73,6 +73,7 @@ Built a Power BI dashboard with DAX measures for Positive Feedback Count, Negati
  | Age Group | p = 0.0000434 | ✅ Yes |
  | Marital Status | p < 0.05 | ✅ Yes | 
 | Gender | p = 0.3 | ❌ No | 
+Marital status and income differences are largely explained by occupation (97% of students are single).
 
 <img width="569" height="143" alt="Screenshot 2026-10-08 192935" src="https://github.com/user-attachments/assets/33271e94-1765-4c84-a33c-6659b1577ab8" />
 
@@ -113,7 +114,7 @@ Note on small samples: Some groups are very small (Uneducated = 2, House wife = 
 
 **Business Recommendations**
 
-Run targeted satisfaction surveys for the 26-30 age group and low-income customers to identify their specific pain points (delivery time, pricing, portion size, quality). - Consider budget-friendly combos or loyalty offers for the "Below Rs.10000" income segment. - Improve family-size or bulk-order options for married customers. - Treat the reasons above as hypotheses to test, since this dataset shows *who* is dissatisfied but not *why*.
+Run targeted satisfaction surveys for the 26-30 age group and low-income customers to identify their specific pain points (delivery time, pricing, portion size, quality). - Consider budget-friendly combos or loyalty offers for the "Below Rs.10000" income segment. - Improve family-size or bulk-order options for married customers. - Treat the reasons above as hypotheses to test, since this dataset shows *who* is dissatisfied but not *why*.Focus on quality and delivery of working customers(26-30) specially when they through negative feedback.
 
 **Dashboard Preview (Dashboard img.png)** 
 
@@ -132,5 +133,6 @@ Jupyter Notebook / VS Code
 
 **Future Improvements**
 
-Build a machine learning model to predict negative feedback and reorder likelihood - Add the relationship between negative feedback and reorder intention (Feedback vs Output) as a deeper analysis - Use a larger or more varied dataset (this one covers only one city and mostly students) - Add customer comments or text data for sentiment analysis
+Build a machine learning model to predict negative feedback and reorder likelihood - Add the relationship between negative feedback and reorder intention (Feedback vs Output) as a deeper analysis - Use a larger or more varied dataset (this one covers only one city and mostly students) - Add customer comments or text data for sentiment analysis.
+Use logistic regression to separate the effects of age, occupation and income on negative feedback
 
